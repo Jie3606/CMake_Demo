@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/linux/projects/CDemo/build",
+  "command": "/usr/bin/cc  -I/home/linux/projects/CDemo/include -g -o CMakeFiles/CDemo.dir/src/main.c.o -c /home/linux/projects/CDemo/src/main.c",
+  "file": "/home/linux/projects/CDemo/src/main.c"
+},
+{
+  "directory": "/home/linux/projects/CDemo/build",
+  "command": "/usr/bin/cc  -I/home/linux/projects/CDemo/include -g -o CMakeFiles/CDemo.dir/src/test.c.o -c /home/linux/projects/CDemo/src/test.c",
+  "file": "/home/linux/projects/CDemo/src/test.c"
+}
+]

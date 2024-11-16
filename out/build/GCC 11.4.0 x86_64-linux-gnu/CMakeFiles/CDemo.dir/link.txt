@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/CDemo.dir/src/main.c.o CMakeFiles/CDemo.dir/src/test.c.o -o CDemo 

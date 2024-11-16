@@ -1,0 +1,3 @@
+/home/linux/projects/CDemo/build/CMakeFiles/CDemo.dir
+/home/linux/projects/CDemo/build/CMakeFiles/edit_cache.dir
+/home/linux/projects/CDemo/build/CMakeFiles/rebuild_cache.dir
